@@ -16,19 +16,7 @@ The Cloud Computing course covers a range of topics essential for understanding 
 
 ## Assignments
 
-Each assignment is designed to provide hands-on experience with various cloud platforms and services. The assignments will be organized in folders named by the assignment number or topic.
-
-## How to Use this Repository
-
-1. **Clone the Repository**: Use the following command to clone the repository to your local machine.
-   ```sh
-   git clone https://github.com/YagyamBatra/Cloud_Computing_SDS.git
-   ```
-
-2. **Navigate to Assignment Folders**: Each assignment has its own folder. Navigate to the respective folder to find the assignment details and code.
-   ```sh
-   cd Cloud_Computing_SDS/Assignment_1
-   ```
+Each assignment is designed to provide hands-on experience with various cloud platforms and services. The assignments will be organized  by the the assignment number. Each PDF file contains detailed notes, screenshots, and handwritten notes explaining the concepts and steps involved. 
    
 ## Contributions
 
